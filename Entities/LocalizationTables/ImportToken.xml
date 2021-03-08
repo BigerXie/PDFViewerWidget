@@ -1,0 +1,153 @@
+<Entities>
+  <LocalizationTables>
+    <LocalizationTable aspect.isCreatable="false" aspect.isEditableSystemObject="true" description="Default localization table" documentationContent="" homeMashup="" languageCommon="English" languageNative="English" name="Default" projectName="" tags="">
+      <ConfigurationTables>
+        <ConfigurationTable description="Localization tokens and usage" isMultiRow="true" name="LocalizationTokens" ordinal="0">
+          <DataShape>
+            <FieldDefinitions>
+              <FieldDefinition aspect.friendlyName="Translation context" baseType="STRING" description="Translation context" name="context" ordinal="3"/>
+              <FieldDefinition aspect.friendlyName="Token name" baseType="STRING" description="Token name" name="name" ordinal="0"/>
+              <FieldDefinition aspect.friendlyName="Token usage" baseType="STRING" description="Token usage" name="usage" ordinal="2"/>
+              <FieldDefinition aspect.friendlyName="Localized value" baseType="STRING" description="Localized value" name="value" ordinal="1"/>
+            </FieldDefinitions>
+          </DataShape>
+          <Rows>
+            <Row>
+              <context/>
+              <name><![CDATA[PDFWidget.pdfviewer.page]]></name>
+              <usage/>
+              <value>Page</value>
+            </Row>
+            <Row>
+              <context/>
+              <name><![CDATA[PDFWidget.pdfviewer.fitpage]]></name>
+              <usage/>
+              <value>Fit Page</value>
+            </Row>
+            <Row>
+              <context/>
+              <name><![CDATA[PDFWidget.pdfviewer.fitwidth]]></name>
+              <usage/>
+              <value>Fit Width</value>
+            </Row>
+            <Row>
+              <context/>
+              <name><![CDATA[PDFWidget.pdfviewer.error]]></name>
+              <usage/>
+              <value>The file is not available or is not a valid PDF document</value>
+            </Row>
+          </Rows>
+        </ConfigurationTable>
+      </ConfigurationTables>
+      <ConfigurationChanges/>
+    </LocalizationTable>
+    <LocalizationTable aspect.isCreatable="false" aspect.isEditableSystemObject="true" description="it localization table" documentationContent="" homeMashup="" languageCommon="Italian" languageNative="Italiano" name="it" projectName="" tags="">
+      <Owner/>
+      <avatar/>
+      <DesignTimePermissions>
+        <Create/>
+        <Read/>
+        <Update/>
+        <Delete/>
+        <Metadata/>
+      </DesignTimePermissions>
+      <RunTimePermissions/>
+      <VisibilityPermissions>
+        <Visibility/>
+      </VisibilityPermissions>
+      <ConfigurationTables>
+        <ConfigurationTable description="Localization tokens and usage" isMultiRow="true" name="LocalizationTokens" ordinal="0">
+          <DataShape>
+            <FieldDefinitions>
+              <FieldDefinition aspect.friendlyName="Translation context" baseType="STRING" description="Translation context" name="context" ordinal="3"/>
+              <FieldDefinition aspect.friendlyName="Token name" baseType="STRING" description="Token name" name="name" ordinal="0"/>
+              <FieldDefinition aspect.friendlyName="Token usage" baseType="STRING" description="Token usage" name="usage" ordinal="2"/>
+              <FieldDefinition aspect.friendlyName="Localized value" baseType="STRING" description="Localized value" name="value" ordinal="1"/>
+            </FieldDefinitions>
+          </DataShape>
+          <Rows>
+            <Row>
+              <context/>
+              <name><![CDATA[PDFWidget.pdfviewer.page]]></name>
+              <usage/>
+              <value>Pagina</value>
+            </Row>
+            <Row>
+              <context/>
+              <name><![CDATA[PDFWidget.pdfviewer.fitpage]]></name>
+              <usage/>
+              <value>Adatta Pagina</value>
+            </Row>
+            <Row>
+              <context/>
+              <name><![CDATA[PDFWidget.pdfviewer.fitwidth]]></name>
+              <usage/>
+              <value>Adatta Larghezza</value>
+            </Row>
+            <Row>
+              <context/>
+              <name><![CDATA[PDFWidget.pdfviewer.error]]></name>
+              <usage/>
+              <value>Il file non &#xE8; disponibile oppure non &#xE8; un documento PDF valido</value>
+            </Row>
+          </Rows>
+        </ConfigurationTable>
+      </ConfigurationTables>
+      <ConfigurationChanges/>
+    </LocalizationTable>
+    <LocalizationTable aspect.isCreatable="false" aspect.isEditableSystemObject="true" description="de localization table" documentationContent="" homeMashup="" languageCommon="German" languageNative="Deutsch" name="de" projectName="" tags="">
+      <Owner/>
+      <avatar/>
+      <DesignTimePermissions>
+        <Create/>
+        <Read/>
+        <Update/>
+        <Delete/>
+        <Metadata/>
+      </DesignTimePermissions>
+      <RunTimePermissions/>
+      <VisibilityPermissions>
+        <Visibility/>
+      </VisibilityPermissions>
+      <ConfigurationTables>
+        <ConfigurationTable description="Localization tokens and usage" isMultiRow="true" name="LocalizationTokens" ordinal="0">
+          <DataShape>
+            <FieldDefinitions>
+              <FieldDefinition aspect.friendlyName="Translation context" baseType="STRING" description="Translation context" name="context" ordinal="3"/>
+              <FieldDefinition aspect.friendlyName="Token name" baseType="STRING" description="Token name" name="name" ordinal="0"/>
+              <FieldDefinition aspect.friendlyName="Token usage" baseType="STRING" description="Token usage" name="usage" ordinal="2"/>
+              <FieldDefinition aspect.friendlyName="Localized value" baseType="STRING" description="Localized value" name="value" ordinal="1"/>
+            </FieldDefinitions>
+          </DataShape>
+          <Rows>
+            <Row>
+              <context/>
+              <name><![CDATA[PDFWidget.pdfviewer.page]]></name>
+              <usage/>
+              <value>Seite</value>
+            </Row>
+            <Row>
+              <context/>
+              <name><![CDATA[PDFWidget.pdfviewer.fitpage]]></name>
+              <usage/>
+              <value>Seite Anpassen</value>
+            </Row>
+            <Row>
+              <context/>
+              <name><![CDATA[PDFWidget.pdfviewer.fitwidth]]></name>
+              <usage/>
+              <value>Passbreite</value>
+            </Row>
+            <Row>
+              <context/>
+              <name><![CDATA[PDFWidget.pdfviewer.error]]></name>
+              <usage/>
+              <value>Die Datei ist nicht verf&#xFC;gbar oder kein g&#xFC;ltiges PDF-Dokument</value>
+            </Row>            
+          </Rows>
+        </ConfigurationTable>
+      </ConfigurationTables>
+      <ConfigurationChanges/>
+    </LocalizationTable>
+  </LocalizationTables>
+</Entities>

@@ -1,0 +1,100 @@
+.widget-pdfviewer {
+  background: lightgray;
+}
+.widget-pdfviewer h3 {
+  text-align: center;
+  padding: 100px;
+}
+
+.widget-pdfviewer-page {
+  height: 30px;
+  background: lightgray;
+  font-family: sans-serif;
+}
+.widget-pdfviewer-page * {
+  height: 26px;
+}
+
+.widget-pdfviewer-page_select, .widget-pdfviewer-outline_select {
+  background: darkgray;
+  color: white;
+  font-family: sans-serif;
+  border-radius: 5px;
+  border: none;
+  padding: 4px;
+  margin-top: 3px;
+  cursor: pointer;
+  float: left;
+}
+
+.widget-pdfviewer-outline_select {
+  max-width: 200px;
+  margin-left: 10px;
+}
+
+.widget-pdfviewer-page_num, .widget-pdfviewer-page_loading {
+  background: lightgray;
+  color: darkslategray;
+  font-family: sans-serif;
+  border: none;
+  padding: 5px;
+  margin: 3px;
+  float: left;
+}
+
+.widget-pdfviewer-page_fitpage, .widget-pdfviewer-page_fitwidth, .widget-pdfviewer-page_plus, .widget-pdfviewer-page_minus {
+  background: darkgray;
+  color: white;
+  font-family: sans-serif;
+  border-radius: 5px;
+  border: none;
+  padding: 5px;
+  margin: 3px;
+  float: right;
+  cursor: pointer;
+}
+.widget-pdfviewer-page_plus, .widget-pdfviewer-page_minus {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.widget-pdfviewer-page_zoom {
+  background: darkgray;
+  color: white;
+  font-family: sans-serif;
+  border-radius: 5px;
+  border: none;
+  padding: 4px;
+  margin-top: 3px;
+  float: right;
+  cursor: pointer;  
+}
+
+.widget-pdfviewer-container {
+  width: 100%;
+  overflow-y: auto;
+  background: darkgray;
+  padding-top: 5px;
+}
+.widget-pdfviewer-container canvas {
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1px;
+  display: block;  
+}
+
+.widget-pdfviewer-loading {
+  height: 10px;
+  background: lightgray;
+}
+
+.widget-pdfviewer-loading-progress {
+  position: absolute;
+  height: 13px;
+  background: blue;
+  color: white;
+  text-align: right;
+  line-height: 12px;
+}
