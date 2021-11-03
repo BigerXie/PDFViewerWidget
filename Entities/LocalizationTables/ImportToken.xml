@@ -42,19 +42,6 @@
       <ConfigurationChanges/>
     </LocalizationTable>
     <LocalizationTable aspect.isCreatable="false" aspect.isEditableSystemObject="true" description="it localization table" documentationContent="" homeMashup="" languageCommon="Italian" languageNative="Italiano" name="it" projectName="" tags="">
-      <Owner/>
-      <avatar/>
-      <DesignTimePermissions>
-        <Create/>
-        <Read/>
-        <Update/>
-        <Delete/>
-        <Metadata/>
-      </DesignTimePermissions>
-      <RunTimePermissions/>
-      <VisibilityPermissions>
-        <Visibility/>
-      </VisibilityPermissions>
       <ConfigurationTables>
         <ConfigurationTable description="Localization tokens and usage" isMultiRow="true" name="LocalizationTokens" ordinal="0">
           <DataShape>
@@ -96,19 +83,6 @@
       <ConfigurationChanges/>
     </LocalizationTable>
     <LocalizationTable aspect.isCreatable="false" aspect.isEditableSystemObject="true" description="de localization table" documentationContent="" homeMashup="" languageCommon="German" languageNative="Deutsch" name="de" projectName="" tags="">
-      <Owner/>
-      <avatar/>
-      <DesignTimePermissions>
-        <Create/>
-        <Read/>
-        <Update/>
-        <Delete/>
-        <Metadata/>
-      </DesignTimePermissions>
-      <RunTimePermissions/>
-      <VisibilityPermissions>
-        <Visibility/>
-      </VisibilityPermissions>
       <ConfigurationTables>
         <ConfigurationTable description="Localization tokens and usage" isMultiRow="true" name="LocalizationTokens" ordinal="0">
           <DataShape>
