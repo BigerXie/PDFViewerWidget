@@ -5,7 +5,7 @@
       name="PDFViewerWidget"
       packageVersion="1.0.2"
       vendor="Accenture Italy - Industry X"
-      description="Extension to manage PDF files"
+      description="Extension to show a (very basic) PDF viewer"
       minimumThingWorxVersion="8.3.0"
       dependsOn=""> 
     </ExtensionPackage>
