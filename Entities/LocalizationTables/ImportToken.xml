@@ -14,25 +14,25 @@
           <Rows>
             <Row>
               <context/>
-              <name><![CDATA[PDFWidget.pdfviewer.page]]></name>
+              <name><![CDATA[PDFViewerWidget.pdfviewer.page]]></name>
               <usage/>
               <value>Page</value>
             </Row>
             <Row>
               <context/>
-              <name><![CDATA[PDFWidget.pdfviewer.fitpage]]></name>
+              <name><![CDATA[PDFViewerWidget.pdfviewer.fitpage]]></name>
               <usage/>
               <value>Fit Page</value>
             </Row>
             <Row>
               <context/>
-              <name><![CDATA[PDFWidget.pdfviewer.fitwidth]]></name>
+              <name><![CDATA[PDFViewerWidget.pdfviewer.fitwidth]]></name>
               <usage/>
               <value>Fit Width</value>
             </Row>
             <Row>
               <context/>
-              <name><![CDATA[PDFWidget.pdfviewer.error]]></name>
+              <name><![CDATA[PDFViewerWidget.pdfviewer.error]]></name>
               <usage/>
               <value>The file is not available or is not a valid PDF document</value>
             </Row>
@@ -55,25 +55,25 @@
           <Rows>
             <Row>
               <context/>
-              <name><![CDATA[PDFWidget.pdfviewer.page]]></name>
+              <name><![CDATA[PDFViewerWidget.pdfviewer.page]]></name>
               <usage/>
               <value>Pagina</value>
             </Row>
             <Row>
               <context/>
-              <name><![CDATA[PDFWidget.pdfviewer.fitpage]]></name>
+              <name><![CDATA[PDFViewerWidget.pdfviewer.fitpage]]></name>
               <usage/>
               <value>Adatta Pagina</value>
             </Row>
             <Row>
               <context/>
-              <name><![CDATA[PDFWidget.pdfviewer.fitwidth]]></name>
+              <name><![CDATA[PDFViewerWidget.pdfviewer.fitwidth]]></name>
               <usage/>
               <value>Adatta Larghezza</value>
             </Row>
             <Row>
               <context/>
-              <name><![CDATA[PDFWidget.pdfviewer.error]]></name>
+              <name><![CDATA[PDFViewerWidget.pdfviewer.error]]></name>
               <usage/>
               <value>Il file non &#xE8; disponibile oppure non &#xE8; un documento PDF valido</value>
             </Row>
@@ -96,25 +96,25 @@
           <Rows>
             <Row>
               <context/>
-              <name><![CDATA[PDFWidget.pdfviewer.page]]></name>
+              <name><![CDATA[PDFViewerWidget.pdfviewer.page]]></name>
               <usage/>
               <value>Seite</value>
             </Row>
             <Row>
               <context/>
-              <name><![CDATA[PDFWidget.pdfviewer.fitpage]]></name>
+              <name><![CDATA[PDFViewerWidget.pdfviewer.fitpage]]></name>
               <usage/>
               <value>Seite Anpassen</value>
             </Row>
             <Row>
               <context/>
-              <name><![CDATA[PDFWidget.pdfviewer.fitwidth]]></name>
+              <name><![CDATA[PDFViewerWidget.pdfviewer.fitwidth]]></name>
               <usage/>
               <value>Passbreite</value>
             </Row>
             <Row>
               <context/>
-              <name><![CDATA[PDFWidget.pdfviewer.error]]></name>
+              <name><![CDATA[PDFViewerWidget.pdfviewer.error]]></name>
               <usage/>
               <value>Die Datei ist nicht verf&#xFC;gbar oder kein g&#xFC;ltiges PDF-Dokument</value>
             </Row>            

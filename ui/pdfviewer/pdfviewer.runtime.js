@@ -1,6 +1,6 @@
 /* global TW, pdfjsLib */
-$("body").append('<script type="text/javascript" src="../Common/extensions/PDFWidget/ui/pdfviewer/jslibrary/pdf.js"></script>');
-pdfjsLib.GlobalWorkerOptions.workerSrc = '../Common/extensions/PDFWidget/ui/pdfviewer/jslibrary/pdf.worker.js';
+$("body").append('<script type="text/javascript" src="../Common/extensions/PDFViewerWidget/ui/pdfviewer/jslibrary/pdf.js"></script>');
+pdfjsLib.GlobalWorkerOptions.workerSrc = '../Common/extensions/PDFViewerWidget/ui/pdfviewer/jslibrary/pdf.worker.js';
 
 TW.Runtime.Widgets.pdfviewer = function () {
   var thisWidget = this;
@@ -23,10 +23,10 @@ TW.Runtime.Widgets.pdfviewer = function () {
   var newRendering = new Date().getTime() + "_" + Math.floor(1000 * Math.random());
   var oldScrollTop, oldHeight, oldScale;
 
-  var pageToken = TW.Runtime.convertLocalizableString("[[PDFWidget.pdfviewer.page]]", "Page");
-  var fitPageToken = TW.Runtime.convertLocalizableString("[[PDFWidget.pdfviewer.fitpage]]", "Fit Page");
-  var fitWidthToken = TW.Runtime.convertLocalizableString("[[PDFWidget.pdfviewer.fitwidth]]", "Fit Width");
-  var errorToken = TW.Runtime.convertLocalizableString("[[PDFWidget.pdfviewer.error]]", "The file is not available or is not a valid PDF document");
+  var pageToken = TW.Runtime.convertLocalizableString("[[PDFViewerWidget.pdfviewer.page]]", "Page");
+  var fitPageToken = TW.Runtime.convertLocalizableString("[[PDFViewerWidget.pdfviewer.fitpage]]", "Fit Page");
+  var fitWidthToken = TW.Runtime.convertLocalizableString("[[PDFViewerWidget.pdfviewer.fitwidth]]", "Fit Width");
+  var errorToken = TW.Runtime.convertLocalizableString("[[PDFViewerWidget.pdfviewer.error]]", "The file is not available or is not a valid PDF document");
 
   this.runtimeProperties = function () {
     return {

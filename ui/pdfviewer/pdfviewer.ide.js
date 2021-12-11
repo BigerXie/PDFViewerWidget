@@ -1,7 +1,7 @@
 /* global TW */
 TW.IDE.Widgets.pdfviewer = function () {
   this.widgetIconUrl = function () {
-    return '../Common/extensions/PDFWidget/ui/pdfviewer/pdf.png';
+    return '../Common/extensions/PDFViewerWidget/ui/pdfviewer/pdf.png';
   };
 
   this.widgetProperties = function () {

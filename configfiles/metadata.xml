@@ -2,7 +2,7 @@
 <Entities>
   <ExtensionPackages>
     <ExtensionPackage 
-      name="PDFWidget"
+      name="PDFViewerWidget"
       packageVersion="1.0.2"
       vendor="Accenture Italy - Industry X"
       description="Extension to manage PDF files"
