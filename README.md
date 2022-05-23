@@ -1,6 +1,8 @@
 # PDFViewerWidget
 An extension to show a (very basic) PDF viewer.
 
+**This Extension is provided as-is and without warranty or support. It is not part of the PTC product suite and there is no PTC support.**
+
 ## Description
 This extension provides a widget to show a (very basic) PDF viewer; the widget allows to provide a platform-independent user experience.
 
